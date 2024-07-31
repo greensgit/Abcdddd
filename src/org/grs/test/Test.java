@@ -6,5 +6,9 @@ public class Test {
 		
 		System.out.println("This is demo");
 	}
+	
+	private void payment() {
+		System.out.println("This is ramakrishnan - working on payment module");
+	}
 
 }
